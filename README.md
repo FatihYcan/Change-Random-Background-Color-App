@@ -14,6 +14,6 @@ Random Bg Color, arka plan rengini dinamik olarak değiştiren basit bir web uyg
 
 Bu proje, kullanıcı etkileşimlerine göre arka plan rengini değiştiren bir uygulamadır. Kullanıcılar, bir renk seçebilir, butonlara tıklayabilir veya fare ile üzerine gelerek arka plan rengini değiştirebilirler.
 
-https://github.com/user-attachments/assets/fb529926-9b76-4f13-8c82-1f0b1302ff80
+https://github.com/user-attachments/assets/eb3a4f34-390e-4bdf-ba98-df288d8bb0fa
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Change-Random-Background-Color-App/)
