@@ -14,7 +14,7 @@ This project is a simple web application to randomly change the background color
 
 - HTML5
 - CSS3
--JavaScript
+- JavaScript
 - Font Awesome
 
 # Random Background Color Changer
